@@ -11,4 +11,5 @@
 
 # ほか
 
-- [Golangでログを吐くコツ](https://www.kaoriya.net/blog/2018/12/16/)
+- [Golangでログを吐くコツ — KaoriYa](https://www.kaoriya.net/blog/2018/12/16/)
+- [Big Sky :: golang では for ループの中で defer してはいけない。](https://mattn.kaoriya.net/software/lang/go/20151212021608.htm): see [`defer`文](https://hiwane.github.io/gospec-ja/#defer%E6%96%87)
