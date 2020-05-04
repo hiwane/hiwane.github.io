@@ -14,3 +14,7 @@
 - [Golangでログを吐くコツ — KaoriYa](https://www.kaoriya.net/blog/2018/12/16/)
 - [Big Sky :: golang では for ループの中で defer してはいけない。](https://mattn.kaoriya.net/software/lang/go/20151212021608.htm): see [`defer`文](https://hiwane.github.io/gospec-ja/#defer%E6%96%87)
 - [「プログラミング言語Go完全入門」の期間限定公開のお知らせ - Mercari Engineering Blog](https://tech.mercari.com/entry/2020/03/17/120137) (-2020/05/31)
+
+### Iris
+- [golangのWAFとしてIrisだけは絶対に選んではいけないと思う．技術的にダメなのではなく倫理的に完全にアウトなので．Comitt Historyを書き換えて自分だけをContributerにしたりLICENSE消したりIssueを編集したり...](https://twitter.com/deeeet/status/807487726358405120) tweeted by [@deeeet](https://twitter.com/deeeet) at  2016年12月10日
+- [awesome-go PR #1137](https://github.com/avelino/awesome-go/pull/1137#issuecomment-254124978)
